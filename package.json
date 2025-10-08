@@ -18,7 +18,7 @@
     "elysia": "^0.7.24",
     "elysia-lambda": "^0.0.7",
     "elysia-rate-limit": "^1.2.0",
-    "langchain": "^0.0.185",
+    "langchain": "^0.3.34",
     "zod": "^3.22.4"
   }
 }
