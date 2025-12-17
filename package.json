@@ -14,8 +14,8 @@
   },
   "dependencies": {
     "@elysiajs/swagger": "^0.7.4",
-    "@grotto/logysia": "^0.0.5",
-    "elysia": "^0.7.24",
+    "@grotto/logysia": "^0.1.0",
+    "elysia": "^1.4.17",
     "elysia-lambda": "^0.0.7",
     "elysia-rate-limit": "^1.2.0",
     "langchain": "^0.0.185",
